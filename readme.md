@@ -3,8 +3,8 @@ Eine süsse, animierte Flip-Uhr mit 12/24-Stunden Format.
 
 ## Projektstruktur
 
-```
-memegenerator/
+---
+memegenerator
 ├── index.html      # Hauptseite
 ├── style.css       # Styling und Animationen
 ├── function.js     # Uhr-Logik
